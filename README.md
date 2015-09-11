@@ -7,6 +7,6 @@ https://github.com/PUCD2035-E-F15/assignment_1/0e54639db963825923fe623270e2bd8fc
 
 ## Doctor Star and the Enchanted Lands
 
-![Output](DoctorStar.png)
+![Output](file:///Users/TatyanaPalacios/Desktop/DoctorStar.png)
 
 ^ put a screengrab of your final output here
